@@ -3,6 +3,7 @@
     package="com.vladik_company" >
 
     <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="27" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
